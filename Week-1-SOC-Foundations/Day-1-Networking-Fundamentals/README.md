@@ -20,7 +20,7 @@ Build a working understanding of how networks behave before touching any VM or S
 
 | Evidence |
 |---|
-| ![Network Diagram](./Screenshots/SS1_Network_Diagram.PNG) |
+| ![Network Diagram](./Screenshots/SS1_Network_Diagram.PNG) | 
 
 ### Phase 3 — Live Traffic Capture
 - Captured ~10 minutes of live traffic on the host machine using Wireshark
